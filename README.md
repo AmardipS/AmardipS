@@ -1,5 +1,5 @@
-### Hi there, I am Amardip 👋
-## a husband, father, developer and a life-long learner
+## Hi there, I am Amardip 👋
+### a husband, father, developer and a life-long learner
 - 😄 I'm interested in Backend Development 
 - 🔭 I’m currently working on Score Card Generating Project in a Fintech Company
 - 🌱 I’m currently learning C#, .Net, Web API, Azure ...
