@@ -1,14 +1,16 @@
-## Hi there, I am Amardip 👋
-### a husband, father, developer and a life-long learner
-- 😄 I'm interested in Backend Development 
-- 🔭 I’m currently working on Score Card Generating Project in a Fintech Company
-- 🌱 I’m currently learning C#, .Net, Web API, Azure ...
-- 👯 I’m looking to collaborate on various aspects of .NET, Web API
-- ⚡ Fun fact: I love photography, walking in the woods and reading books
+# Hi, I'm Amardip 👋
 
-<br />
-<br />
+Backend developer, husband, father and lifelong learner, based in Copenhagen.
 
-### - 📫 Connect With Me:
-    - https://www.linkedin.com/in/shresthamardip/ 
-    - shresthamardip@gmail.com
+### About me
+- 💼 Software Developer in fintech, building credit scoring and decisioning systems
+- 🛠️ Working mainly with C#, .NET, Web API and Azure
+- 🌱 Currently exploring AI-assisted development and LLM agent workflows
+- 🤝 Open to collaborating on .NET and backend projects
+- 📷 Away from the keyboard: photography, walks in the woods and a good book
+
+### Tech stack
+`C#` · `.NET` · `ASP.NET Core Web API` · `Azure` · `SQL` · `Git`
+
+### Let's connect
+[LinkedIn](https://linkedin.com/in/shresthamardip) · [Email](mailto:amardip.sth@gmail.com)
